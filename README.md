@@ -66,6 +66,9 @@ A curated list of projects that are directly connected or may be used for Natura
 . switching linear dynamical systems
 . factorial models	
 . [link](https://github.com/mattjj/pyhsmm)
+- UBY
+. A Large-Scale Unified Lexical-Semantic Resource [link](https://www.ukp.tu-darmstadt.de/data/lexical-resources/uby/) 
+- 
 
 # Similar lists
 - Rochester University project list
