@@ -68,7 +68,10 @@ A curated list of projects that are directly connected or may be used for Natura
 . [link](https://github.com/mattjj/pyhsmm)
 - UBY
 . A Large-Scale Unified Lexical-Semantic Resource [link](https://www.ukp.tu-darmstadt.de/data/lexical-resources/uby/) 
-- 
+- Duckling
+. probabilistic CFG parser for dimensions (time, temperature, size etc) [link](https://duckling.wit.ai/)
+- Wit
+. intent parser [link](https://wit.ai/)
 
 # Similar lists
 - Rochester University project list
