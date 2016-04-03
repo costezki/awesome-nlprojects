@@ -72,6 +72,8 @@ A curated list of projects that are directly connected or may be used for Natura
 . probabilistic CFG parser for dimensions (time, temperature, size etc) [link](https://duckling.wit.ai/)
 - Wit
 . intent parser [link](https://wit.ai/)
+- Mycroft
+. a company making another intent parser, a Speech2Text and a Text2Speech frameworks in Python [link](https://mycroft.ai/projects/) 
 
 # Similar lists
 - Rochester University project list
