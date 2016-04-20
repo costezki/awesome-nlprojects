@@ -74,6 +74,10 @@ A curated list of projects that are directly connected or may be used for Natura
 . intent parser [link](https://wit.ai/)
 - Mycroft
 . a company making another intent parser, a Speech2Text and a Text2Speech frameworks in Python [link](https://mycroft.ai/projects/) 
+- IEPY
+. IEPY is an open source tool for Information Extraction focused on Relation Extraction.[link][https://github.com/machinalis/iepy]
+- MITIE
+. This project provides free (even for commercial use) state-of-the-art information extraction tools. The current release includes tools for performing named entity extraction and binary relation detection as well as tools for training custom extractors and relation detectors. [link][https://github.com/mit-nlp/MITIE]
 
 # Similar lists
 - Rochester University project list
@@ -89,3 +93,5 @@ A curated list of projects that are directly connected or may be used for Natura
 # Other Cool stuff
 - Node Box
 . NodeBox makes it easy to do data visualisations, generative design and complex production challenges. [link](https://www.nodebox.net/node/)
+- Feature Forge
+. This library provides a set of tools that can be useful in many machine learning applications (classification, clustering, regression, etc.), and particularly helpful if you use scikit-learn (although this can work if you have a different algorithm). [link][https://github.com/machinalis/featureforge/tree/master]
