@@ -97,3 +97,5 @@ A curated list of projects that are directly connected or may be used for Natura
 . NodeBox makes it easy to do data visualisations, generative design and complex production challenges. [link](https://www.nodebox.net/node/)
 - Feature Forge
 . This library provides a set of tools that can be useful in many machine learning applications (classification, clustering, regression, etc.), and particularly helpful if you use scikit-learn (although this can work if you have a different algorithm). [link][https://github.com/machinalis/featureforge/tree/master]
+- Storry generator algorithms
+. [link][http://wikis.sub.uni-hamburg.de/lhn/index.php/Story_Generator_Algorithms]
