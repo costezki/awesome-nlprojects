@@ -75,13 +75,16 @@ A curated list of projects that are directly connected or may be used for Natura
 - Mycroft
 . a company making another intent parser, a Speech2Text and a Text2Speech frameworks in Python [link](https://mycroft.ai/projects/) 
 - IEPY
-. IEPY is an open source tool for Information Extraction focused on Relation Extraction.[link][https://github.com/machinalis/iepy]
+. IEPY is an open source tool for Information Extraction focused on Relation Extraction.[link](https://github.com/machinalis/iepy)
 - MITIE
-. This project provides free (even for commercial use) state-of-the-art information extraction tools. The current release includes tools for performing named entity extraction and binary relation detection as well as tools for training custom extractors and relation detectors. [link][https://github.com/mit-nlp/MITIE]
+. This project provides free (even for commercial use) state-of-the-art information extraction tools. The current release includes tools for performing named entity extraction and binary relation detection as well as tools for training custom extractors and relation detectors. [link](https://github.com/mit-nlp/MITIE)
 - SyntaxNet 
-. an open-source neural network framework for TensorFlow that provides a foundation for Natural Language Understanding (NLU) systems. Our release includes all the code needed to train new SyntaxNet models on your own data, as well as Parsey McParseface, an English parser that we have trained for you, and that you can use to analyze English text. [link][https://github.com/tensorflow/models/tree/master/syntaxnet]
+. an open-source neural network framework for TensorFlow that provides a foundation for Natural Language Understanding (NLU) systems. Our release includes all the code needed to train new SyntaxNet models on your own data, as well as Parsey McParseface, an English parser that we have trained for you, and that you can use to analyze English text. [link](https://github.com/tensorflow/models/tree/master/syntaxnet)
 - OpenAI Gym
-. A toolkit for developing and comparing reinforcement learning algorithms. [link][https://github.com/openai/gym]
+. A toolkit for developing and comparing reinforcement learning algorithms. [link](https://github.com/openai/gym)
+- spiff workflow
+. Spiff Workflow is a library implementing a framework for workflows. It is based on http://www.workflowpatterns.com and implemented in pure Python. [link](https://github.com/knipknap/SpiffWorkflow) [Workflow patterns] (http://www.workflowpatterns.com/) The aim of this initiative is to provide a conceptual basis for process technology. In particular, the research provides a thorough examination of the various perspectives (control flow, data, resource, and exception handling) that need to be supported by a workflow language or a business process modelling language. 
+
 
 # Similar lists
 - Rochester University project list
