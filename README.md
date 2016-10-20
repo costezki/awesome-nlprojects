@@ -84,7 +84,8 @@ A curated list of projects that are directly connected or may be used for Natura
 . A toolkit for developing and comparing reinforcement learning algorithms. [link](https://github.com/openai/gym)
 - spiff workflow
 . Spiff Workflow is a library implementing a framework for workflows. It is based on http://www.workflowpatterns.com and implemented in pure Python. [link](https://github.com/knipknap/SpiffWorkflow) [Workflow patterns] (http://www.workflowpatterns.com/) The aim of this initiative is to provide a conceptual basis for process technology. In particular, the research provides a thorough examination of the various perspectives (control flow, data, resource, and exception handling) that need to be supported by a workflow language or a business process modelling language. 
-
+- A news reader project
+. [link](newsreader-project.eu)
 
 # Similar lists
 - Rochester University project list
