@@ -101,6 +101,7 @@ A curated list of projects that are directly connected or may be used for Natura
 # Other Cool stuff
 - Node Box
 . NodeBox makes it easy to do data visualisations, generative design and complex production challenges. [link](https://www.nodebox.net/node/)
+- Callimacus - Linked open data, RDF, web application, data visualization etc. [link](http://callimachusproject.org/)
 - Feature Forge
 . This library provides a set of tools that can be useful in many machine learning applications (classification, clustering, regression, etc.), and particularly helpful if you use scikit-learn (although this can work if you have a different algorithm). [link][https://github.com/machinalis/featureforge/tree/master]
 - Storry generator algorithms
