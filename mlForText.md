@@ -1,6 +1,6 @@
 
 # Deep Learning goodies
-* Neural Storry teller [code](ttps://github.com/ryankiros/neural-storyteller)
+* Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
 
 # Language modelling
 * Skip Sentence encoder [code](https://github.com/ryankiros/skip-thoughts), [paper](https://arxiv.org/abs/1506.06726)
