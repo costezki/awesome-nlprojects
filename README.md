@@ -66,6 +66,9 @@ A curated list of projects that are directly connected or may be used for Natura
 . switching linear dynamical systems
 . factorial models	
 . [link](https://github.com/mattjj/pyhsmm)
+- Prism 
+. symbolic-statistical models; a model checker for temporal logic and quantitative extensions; verification for realtime systems; markov models etc.
+. [link](http://www.prismmodelchecker.org/doc/)
 - UBY
 . A Large-Scale Unified Lexical-Semantic Resource [link](https://www.ukp.tu-darmstadt.de/data/lexical-resources/uby/) 
 - Duckling
