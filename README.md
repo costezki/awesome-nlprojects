@@ -46,7 +46,7 @@ A curated list of projects that are directly connected or may be used for Natura
 - Alchemy	
 . algorithms for statistical relational learning and probabilistic logic inference, based on the Markov logic representation [link](http://alchemy.cs.washington.edu/)
 - pracmln	
-. Marcov Logic in Python    [link](http://www.pracmln.org/)
+. Marcov Logic in Python, this project started as a fork to ProbCong project. Find more [link](http://www.pracmln.org/)
 - ProbCog	
 . ProbCog is a statistical relational learning and reasoning system that supports efficient learning and inference in relational domains	[link](https://github.com/opcode81/ProbCog/wiki)
 - pyHTM	
