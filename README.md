@@ -49,6 +49,8 @@ A curated list of projects that are directly connected or may be used for Natura
 . Marcov Logic in Python, this project started as a fork to ProbCong project. Find more [link](http://www.pracmln.org/)
 - ProbCog	
 . ProbCog is a statistical relational learning and reasoning system that supports efficient learning and inference in relational domains	[link](https://github.com/opcode81/ProbCog/wiki)
+- KReator
+. KReator is an integrated development environment (IDE) for relational probabilistic knowledge representation languages. At the moment, KReator supports Bayesian Logic Programs (BLPs), Markov Logic Networks (MLNs), Relational Maximum Entropy (RME), Relational Bayesian Networks (RBN), and Probabilistic Prolog (ProbLog). [link](http://kreator-ide.sourceforge.net/)
 - pyHTM	
 . pyHTM - Hierarchical Temporal Memory in Python; 
 . Our machine intelligence technology is called Hierarchical Temporal Memory (HTM), which is a detailed computational theory of the neocortex. At the core of HTM are time-based learning algorithms that store and recall spatial and temporal patterns. HTM is well suited to a wide variety of problems, particularly those with the following characteristics:
