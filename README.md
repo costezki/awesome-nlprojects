@@ -59,6 +59,8 @@ A curated list of projects that are directly connected or may be used for Natura
 .    Time-based patterns
 .    Simple techniques such as thresholds yield substantial false positives and false negatives
 . [link]	(https://github.com/carver/pyHTM)
+- KnowRob
+. KnowRob is a knowledge processing system that combines knowledge representation and reasoning methods with techniques for acquiring knowledge and for grounding the knowledge in a physical system and can serve as a common semantic framework for integrating information from different sources. KnowRob combines static encyclopedic knowledge, common-sense knowledge, task descriptions, environment models, object information and information about observed actions that has been acquired from various sources (manually axiomatized, derived from observations, or imported from the web). It supports different deterministic and probabilistic reasoning mechanisms, clustering, classification and segmentation methods, and includes query interfaces as well as visualization tools. [link](https://github.com/knowrob/knowrob)
 - GHMM	
 . The General Hidden Markov Model library (GHMM) is a freely available C library implementing efficient data structures and algorithms for basic and extended HMMs with discrete and continous emissions. It comes with Python wrappers which provide a much nicer interface and added functionality.	[link](http://ghmm.org/)
 . pyHSMM	"This is a Python library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations. There are also some extensions:
