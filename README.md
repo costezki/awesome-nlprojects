@@ -113,3 +113,6 @@ A curated list of projects that are directly connected or may be used for Natura
 . This library provides a set of tools that can be useful in many machine learning applications (classification, clustering, regression, etc.), and particularly helpful if you use scikit-learn (although this can work if you have a different algorithm). [link][https://github.com/machinalis/featureforge/tree/master]
 - Storry generator algorithms
 . [link][http://wikis.sub.uni-hamburg.de/lhn/index.php/Story_Generator_Algorithms]
+- OpenCog AI framework
+OpenCog is an open-source software project aimed at directly confronting the Artificial General Intelligence (AGI) challenge, using mathematical and biological inspiration and professional software engineering techniques.
+. [link](https://github.com/opencog/opencog)
