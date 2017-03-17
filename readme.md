@@ -120,6 +120,7 @@ which make a geek smile for they exist.
 ## Language modelling
 * Skip Sentence encoder [code](https://github.com/ryankiros/skip-thoughts), [paper](https://arxiv.org/abs/1506.06726)
 * Attentive reader [code](https://github.com/caglar/Attentive_reader), [paper](https://arxiv.org/pdf/1506.03340v3)
+* GenSim - topic modelling library for python, also includes a vord2vec implementation [link](http://radimrehurek.com/gensim/index.html)
 
 ## Other ML
 * deep learning platform MxNet + NuymPy [code]( https://github.com/dmlc/minpy)
