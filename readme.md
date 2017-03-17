@@ -5,6 +5,13 @@
 which make a geek smile for they exist.
 > Inspired by [Joseph Misiti's github project](https://github.com/josephmisiti/awesome-machine-learning#python)
 
+> This is a curated list of Natural Language Processing (NLP) projects
+that make a geek smile for they exist.
+
+> This list are directly connected or may be used for Natural Language
+Processing. Inspited by
+[Joseph Misiti's github project](https://github.com/josephmisiti/awesome-machine-learning#python)
+
 ## Contents
 
 - [Resources and Frameworks](#Resources-and-Frameworks)
@@ -111,6 +118,11 @@ which make a geek smile for they exist.
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
+
+## Language modelling
+* Skip Sentence encoder [code](https://github.com/ryankiros/skip-thoughts), [paper](https://arxiv.org/abs/1506.06726)
+* Attentive reader [code](https://github.com/caglar/Attentive_reader), [paper](https://arxiv.org/pdf/1506.03340v3)
+
 
 ## Language modelling
 * Skip Sentence encoder [code](https://github.com/ryankiros/skip-thoughts), [paper](https://arxiv.org/abs/1506.06726)
