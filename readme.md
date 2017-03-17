@@ -108,6 +108,7 @@ which make a geek smile for they exist.
 . Spiff Workflow is a library implementing a framework for workflows. It is based on http://www.workflowpatterns.com and implemented in pure Python. [link](https://github.com/knipknap/SpiffWorkflow) [Workflow patterns] (http://www.workflowpatterns.com/) The aim of this initiative is to provide a conceptual basis for process technology. In particular, the research provides a thorough examination of the various perspectives (control flow, data, resource, and exception handling) that need to be supported by a workflow language or a business process modelling language.
 - A news reader project
 . [link](newsreader-project.eu)
+- word sense disambiguation toolkit in python using word2vec (contains datasets too) [link](https://github.com/tudarmstadt-lt/sensegram)
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
@@ -116,11 +117,17 @@ which make a geek smile for they exist.
 * Skip Sentence encoder [code](https://github.com/ryankiros/skip-thoughts), [paper](https://arxiv.org/abs/1506.06726)
 * Attentive reader [code](https://github.com/caglar/Attentive_reader), [paper](https://arxiv.org/pdf/1506.03340v3)
 
+## Resources
+- BabelNet - Multilingual Enciclopedic Dictionnary [link](http://babelnet.org/download)
+- Nasari - semantic vector representation for BabelNet [link](http://lcl.uniroma1.it/nasari/)
+- 
 
 ## Language modelling
+* Adaptive Skip-gram implementation in Julia [link](https://github.com/sbos/AdaGram.jl)
 * Skip Sentence encoder [code](https://github.com/ryankiros/skip-thoughts), [paper](https://arxiv.org/abs/1506.06726)
 * Attentive reader [code](https://github.com/caglar/Attentive_reader), [paper](https://arxiv.org/pdf/1506.03340v3)
 * GenSim - topic modelling library for python, also includes a vord2vec implementation [link](http://radimrehurek.com/gensim/index.html)
+* vord2vec - Original C implementation and some precomputed resources [link](https://code.google.com/archive/p/word2vec/)
 
 ## Other ML
 * deep learning platform MxNet + NuymPy [code]( https://github.com/dmlc/minpy)
