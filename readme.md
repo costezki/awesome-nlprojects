@@ -109,6 +109,8 @@ which make a geek smile for they exist.
 - A news reader project
 . [link](newsreader-project.eu)
 - word sense disambiguation toolkit in python using word2vec (contains datasets too) [link](https://github.com/tudarmstadt-lt/sensegram)
+- annotated document server for FOLIA format [link](https://github.com/proycon/foliadocserve) 
+- toolkit useful for working with corpus annotations in FOLIA and other formats (compare to Dan's corpkit) [link](https://github.com/proycon/pynlpl)
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
