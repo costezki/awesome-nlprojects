@@ -5,13 +5,6 @@
 which make a geek smile for they exist.
 > Inspired by [Joseph Misiti's github project](https://github.com/josephmisiti/awesome-machine-learning#python)
 
-> This is a curated list of Natural Language Processing (NLP) projects
-that make a geek smile for they exist.
-
-> This list are directly connected or may be used for Natural Language
-Processing. Inspited by
-[Joseph Misiti's github project](https://github.com/josephmisiti/awesome-machine-learning#python)
-
 ## Contents
 
 - [Resources and Frameworks](#Resources-and-Frameworks)
