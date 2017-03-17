@@ -137,6 +137,8 @@ OpenCog is an open-source software project aimed at directly confronting the Art
 . [link](https://github.com/opencog/opencog)
 
 ## Similar lists
+- [awesome nlp](https://github.com/brianspiering/awesome-dl4nlp)
+- [awesome dl nlp](https://github.com/brianspiering/awesome-dl4nlp)
 - Rochester University project list
 . potentially useful links
 . [link](https://www.cs.rochester.edu/research/cisd/projects/)
