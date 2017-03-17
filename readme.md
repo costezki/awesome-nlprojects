@@ -145,6 +145,8 @@ which make a geek smile for they exist.
 - OpenCog AI framework
 OpenCog is an open-source software project aimed at directly confronting the Artificial General Intelligence (AGI) challenge, using mathematical and biological inspiration and professional software engineering techniques.
 . [link](https://github.com/opencog/opencog)
+- FoLiA Linguistic Annotation Tool [link](https://github.com/proycon/flat)
+- WebAnno - a linguistic annotation tool [link](https://webanno.github.io/webanno/)
 
 ## Similar lists
 - [awesome nlp](https://github.com/keon/awesome-nlp)
