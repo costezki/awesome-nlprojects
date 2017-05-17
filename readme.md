@@ -113,6 +113,8 @@ which make a geek smile for they exist.
 - toolkit useful for working with corpus annotations in FOLIA and other formats (compare to Dan's corpkit) [link](https://github.com/proycon/pynlpl)
 - vaderSentiment 
 Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentiment)
+- Wowpal Wabbit - a reinformecement learning setup using structured prediction technique [link](https://github.com/JohnLangford/vowpal_wabbit) 
+. Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. [link](http://hunch.net/~vw/)
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
