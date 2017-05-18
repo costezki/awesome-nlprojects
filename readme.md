@@ -30,6 +30,9 @@ which make a geek smile for they exist.
 . knowledge extraction into episodic logic (similar to babelnet) [link](http://cs.rochester.edu/research/lore/)
 - FRED
 . semantic parser/knowledge extractor [link](http://wit.istc.cnr.it/stlab-tools/fred)
+. [link2](http://wit.istc.cnr.it/stlab-tools/fred/fredlib)
+. related tools [link3](http://wit.istc.cnr.it/stlab-tools/)
+- LEGALO is a novel Open Knowledge Extraction approach that performs unsupervised, open domain, and abstractive knowledge extraction from text for producing directly usable machine readable information. [link]()
 - DELPH-IN
 . Broader project for NLP; grammar, parser, [link](http://www.delph-in.net/erg/)
 - LKB
