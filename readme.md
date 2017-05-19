@@ -118,18 +118,18 @@ which make a geek smile for they exist.
 Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentiment)
 - Wowpal Wabbit - a reinformecement learning setup using structured prediction technique [link](https://github.com/JohnLangford/vowpal_wabbit) 
 . Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. [link](http://hunch.net/~vw/)
+- TiMBL - an open source software package implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification with feature weighting suitable for symbolic feature spaces, and IGTree, a decision-tree approximation of IB1-IG. [link](https://languagemachines.github.io/timbl/) [link1](https://github.com/LanguageMachines/timbl/) [link3]()
+- PIKES - knowledge extraction suite [link](https://github.com/dkmfbk/pikes) [link](http://pikes.fbk.eu/eval-pm.html)
+- RDFPro - the swiss knowfe ro RDF manipulation, stream base RDF processing [link](http://rdfpro.fbk.eu/)
+- spacy - Industrial-strength Natural Language Processing (NLP) with Python and Cython [link](https://github.com/explosion/spaCy)
+- textacy - Higher level NLP built on spaCy [link](https://github.com/chartbeat-labs/textacy)
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
 
-## Language modelling
-* Skip Sentence encoder [code](https://github.com/ryankiros/skip-thoughts), [paper](https://arxiv.org/abs/1506.06726)
-* Attentive reader [code](https://github.com/caglar/Attentive_reader), [paper](https://arxiv.org/pdf/1506.03340v3)
-
 ## Resources
 - BabelNet - Multilingual Enciclopedic Dictionnary [link](http://babelnet.org/download)
 - Nasari - semantic vector representation for BabelNet [link](http://lcl.uniroma1.it/nasari/)
-- 
 
 ## Language modelling
 * Adaptive Skip-gram implementation in Julia [link](https://github.com/sbos/AdaGram.jl)
@@ -137,6 +137,8 @@ Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentim
 * Attentive reader [code](https://github.com/caglar/Attentive_reader), [paper](https://arxiv.org/pdf/1506.03340v3)
 * GenSim - topic modelling library for python, also includes a vord2vec implementation [link](http://radimrehurek.com/gensim/index.html)
 * vord2vec - Original C implementation and some precomputed resources [link](https://code.google.com/archive/p/word2vec/)
+* Skip Sentence encoder [code](https://github.com/ryankiros/skip-thoughts), [paper](https://arxiv.org/abs/1506.06726)
+* Attentive reader [code](https://github.com/caglar/Attentive_reader), [paper](https://arxiv.org/pdf/1506.03340v3)
 
 ## Other ML
 * deep learning platform MxNet + NuymPy [code]( https://github.com/dmlc/minpy)
