@@ -5,6 +5,20 @@
 which make a geek smile for they exist.
 > Inspired by [Joseph Misiti's github project](https://github.com/josephmisiti/awesome-machine-learning#python)
 
+Related Lists:
+
+- [awesome-nlp](https://github.com/keon/awesome-nlp)
+- [nlp-with-ruby](https://github.com/arbox/nlp-with-ruby)
+- [awesome-community-curated-nlp](https://github.com/alvations/awesome-community-curated-nlp)
+- [awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
+- [awesome-d3](https://github.com/wbkd/awesome-d3)
+- [awesome-python](https://github.com/vinta/awesome-python)
+- [awesome-data-science-viz](https://github.com/quantmind/awesome-data-science-viz)
+- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [awesome-rl](https://github.com/aikorea/awesome-rl)
+- [awesome-rnn](https://github.com/kjw0612/awesome-rnn)
+- [awesome-public-datasets](https://github.com/ChristosChristofidis/awesome-public-datasets)
+
 ## Contents
 
 - [Resources and Frameworks](#Resources-and-Frameworks)
