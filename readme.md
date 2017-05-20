@@ -145,6 +145,7 @@ Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentim
 - spacy - Industrial-strength Natural Language Processing (NLP) with Python and Cython [link](https://github.com/explosion/spaCy)
 - textacy - Higher level NLP built on spaCy [link](https://github.com/chartbeat-labs/textacy)
 - Ukb - graph-based WSD and similarity [link](https://github.com/asoroa/ukb)
+- marseille - Mining Argument Structures with Expressive Inference (Linear and LSTM Engines) [link](https://github.com/vene/marseille)
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
@@ -161,9 +162,12 @@ Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentim
 * vord2vec - Original C implementation and some precomputed resources [link](https://code.google.com/archive/p/word2vec/)
 * Skip Sentence encoder [code](https://github.com/ryankiros/skip-thoughts), [paper](https://arxiv.org/abs/1506.06726)
 * Attentive reader [code](https://github.com/caglar/Attentive_reader), [paper](https://arxiv.org/pdf/1506.03340v3)
+* FastText - Faster, better text classification, Library for fast text representation and classification. [link](https://github.com/facebookresearch/fastText)
+* 
 
 ## Other ML
 * deep learning platform MxNet + NuymPy [code]( https://github.com/dmlc/minpy)
+
 
 ## Other Cool stuff
 - Node Box
@@ -178,6 +182,7 @@ OpenCog is an open-source software project aimed at directly confronting the Art
 . [link](https://github.com/opencog/opencog)
 - FoLiA Linguistic Annotation Tool [link](https://github.com/proycon/flat)
 - WebAnno - a linguistic annotation tool [link](https://webanno.github.io/webanno/)
+- Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. [link](https://github.com/facebookresearch/visdom)
 
 ## Similar lists
 - [awesome nlp](https://github.com/keon/awesome-nlp)
