@@ -137,6 +137,7 @@ Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentim
 - RDFPro - the swiss knowfe ro RDF manipulation, stream base RDF processing [link](http://rdfpro.fbk.eu/)
 - spacy - Industrial-strength Natural Language Processing (NLP) with Python and Cython [link](https://github.com/explosion/spaCy)
 - textacy - Higher level NLP built on spaCy [link](https://github.com/chartbeat-labs/textacy)
+- Ukb - graph-based WSD and similarity [link](https://github.com/asoroa/ukb)
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
