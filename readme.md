@@ -31,6 +31,13 @@ Related Lists:
 - [Contribute](#Contribute)
 - [License](#License)
 
+## Periodic tables
+- [Visualization](http://www.visual-literacy.org/periodic_table/periodic_table.html#)
+- [Machine Learning](http://www.mln.io/resources/periodic-table/)
+
+# Cheat Sheets
+- [ML Cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+
 ## Resources and Frameworks
 - TRIPS
 . Semantic Lexicon [link](http://www.cs.rochester.edu/research/trips/lexicon/browse-ont-lex-ajax.html)
