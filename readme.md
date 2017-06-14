@@ -146,6 +146,8 @@ Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentim
 - textacy - Higher level NLP built on spaCy [link](https://github.com/chartbeat-labs/textacy)
 - Ukb - graph-based WSD and similarity [link](https://github.com/asoroa/ukb)
 - marseille - Mining Argument Structures with Expressive Inference (Linear and LSTM Engines) [link](https://github.com/vene/marseille)
+- Fluid construction grammar - [link](https://www.fcg-net.org/contact-us/)
+- Python cognitive modelling suite - [link](https://github.com/tcstewar/ccmsuite)
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
