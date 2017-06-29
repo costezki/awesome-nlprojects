@@ -30,6 +30,7 @@ Related Lists:
 - [Other Cool stuff](#another-section)
 - [Contribute](#Contribute)
 - [License](#License)
+- [Dialogue frameworks](#Dialogue-frameworks)
 
 ## Periodic tables
 - [Visualization](http://www.visual-literacy.org/periodic_table/periodic_table.html#)
@@ -148,6 +149,7 @@ Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentim
 - marseille - Mining Argument Structures with Expressive Inference (Linear and LSTM Engines) [link](https://github.com/vene/marseille)
 - Fluid construction grammar - [link](https://www.fcg-net.org/contact-us/)
 - Python cognitive modelling suite - [link](https://github.com/tcstewar/ccmsuite)
+- Rasa - Natural language understanding [link](https://github.com/RasaHQ/rasa_nlu)
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
@@ -185,6 +187,11 @@ OpenCog is an open-source software project aimed at directly confronting the Art
 - FoLiA Linguistic Annotation Tool [link](https://github.com/proycon/flat)
 - WebAnno - a linguistic annotation tool [link](https://webanno.github.io/webanno/)
 - Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. [link](https://github.com/facebookresearch/visdom)
+
+
+## Dialogue frameworks
+- [Chat script](https://github.com/bwilcox-1234/ChatScript) - Natural Language tool/dialog manager - [link1](https://sourceforge.net/projects/chatscript/), [link2](https://github.com/bwilcox-1234/ChatScript), 
+- [Chatter bot](http://chatterbot.readthedocs.io/en/stable/#) - ChatterBot is a Python library that makes it easy to generate automated responses to a user’s input. ChatterBot uses a selection of machine learning algorithms to produce different types of responses. 
 
 ## Similar lists
 - [awesome nlp](https://github.com/keon/awesome-nlp)
