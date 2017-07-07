@@ -150,6 +150,7 @@ Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentim
 - Fluid construction grammar - [link](https://www.fcg-net.org/contact-us/)
 - Python cognitive modelling suite - [link](https://github.com/tcstewar/ccmsuite)
 - Rasa - Natural language understanding [link](https://github.com/RasaHQ/rasa_nlu)
+- SenticNet - Talking about SenticNet is talking about concept-level sentiment analysis, that is, performing tasks such as polarity detection and emotion recognition by leveraging on semantics and linguistics in stead of solely relying on word co-occurrence frequencies. [link](http://sentic.net/about/) [link](https://github.com/SenticNet)
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
