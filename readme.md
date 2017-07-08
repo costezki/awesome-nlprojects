@@ -195,6 +195,8 @@ OpenCog is an open-source software project aimed at directly confronting the Art
 - [Chatter bot](http://chatterbot.readthedocs.io/en/stable/#) - ChatterBot is a Python library that makes it easy to generate automated responses to a user’s input. ChatterBot uses a selection of machine learning algorithms to produce different types of responses.
 - [RiveScript](https://www.rivescript.com/about) - RiveScript is a simple scripting language for chatbots with a friendly, easy to learn syntax.
 Create your own chatbot in Go, Java, JavaScript, Perl or Python.
+- [SuperScript](http://superscriptjs.com/) - A dialog system and bot engine for conversational UI's.
+- [BotKit](https://github.com/howdyai/botkit) - Botkit is designed to ease the process of designing and running useful, creative bots that live inside messaging platforms. 
 
 ## Similar lists
 - [awesome nlp](https://github.com/keon/awesome-nlp)
