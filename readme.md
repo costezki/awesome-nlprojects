@@ -192,7 +192,9 @@ OpenCog is an open-source software project aimed at directly confronting the Art
 
 ## Dialogue frameworks
 - [Chat script](https://github.com/bwilcox-1234/ChatScript) - Natural Language tool/dialog manager - [link1](https://sourceforge.net/projects/chatscript/), [link2](https://github.com/bwilcox-1234/ChatScript), 
-- [Chatter bot](http://chatterbot.readthedocs.io/en/stable/#) - ChatterBot is a Python library that makes it easy to generate automated responses to a user’s input. ChatterBot uses a selection of machine learning algorithms to produce different types of responses. 
+- [Chatter bot](http://chatterbot.readthedocs.io/en/stable/#) - ChatterBot is a Python library that makes it easy to generate automated responses to a user’s input. ChatterBot uses a selection of machine learning algorithms to produce different types of responses.
+- [RiveScript](https://www.rivescript.com/about) - RiveScript is a simple scripting language for chatbots with a friendly, easy to learn syntax.
+Create your own chatbot in Go, Java, JavaScript, Perl or Python.
 
 ## Similar lists
 - [awesome nlp](https://github.com/keon/awesome-nlp)
