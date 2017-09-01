@@ -38,6 +38,8 @@ Related Lists:
 
 # Cheat Sheets
 - [ML Cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+- [Deep Learnign Cheat sheets](https://github.com/kailashahirwar/cheatsheets-ai)
+- [Data Schience](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 - [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 
 ## Resources and Frameworks
@@ -169,7 +171,7 @@ Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentim
 * Skip Sentence encoder [code](https://github.com/ryankiros/skip-thoughts), [paper](https://arxiv.org/abs/1506.06726)
 * Attentive reader [code](https://github.com/caglar/Attentive_reader), [paper](https://arxiv.org/pdf/1506.03340v3)
 * FastText - Faster, better text classification, Library for fast text representation and classification. [link](https://github.com/facebookresearch/fastText)
-* 
+* InferSent - Sentence embeddings (InferSent) and training code for NLI [link](https://github.com/facebookresearch/InferSent)
 
 ## Other ML
 * deep learning platform MxNet + NuymPy [code]( https://github.com/dmlc/minpy)
