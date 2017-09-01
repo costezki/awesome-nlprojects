@@ -38,6 +38,7 @@ Related Lists:
 
 # Cheat Sheets
 - [ML Cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+- [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 
 ## Resources and Frameworks
 - TRIPS
