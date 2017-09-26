@@ -41,6 +41,7 @@ Related Lists:
 - [Deep Learnign Cheat sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 - [Data Schience](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 - [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
+- [Data Visualization Wikipedia](http://datavizproject.com/)
 
 ## Resources and Frameworks
 - TRIPS
