@@ -77,6 +77,8 @@ Related Lists:
 . stanford core NLP framework for parsing [link](http://stanfordnlp.github.io/CoreNLP/)
 - NLTK
 . awersome NLP framework in Python [link](nltk.org)
+- PyNLPL
+. Python library for Natural Language Processing. It contains various modules useful for common, and less common, NLP tasks. [link](https://github.com/CLARIAH/wp3-pynlpl)
 - Valex
 . Categorization of English Verbs [link](http://ilexir.co.uk/applications/valex/)
 - Unified verb Index
