@@ -123,6 +123,8 @@ Related Lists:
 . A Large-Scale Unified Lexical-Semantic Resource [link](https://www.ukp.tu-darmstadt.de/data/lexical-resources/uby/)
 - Duckling
 . probabilistic CFG parser for dimensions (time, temperature, size etc) [link](https://duckling.wit.ai/)
+- SLING - A natural language frame semantics parser 
+. semantic parser implemented using deep Recurrent Neural Network [link](https://github.com/google/sling)
 - Wit
 . intent parser [link](https://wit.ai/)
 - Mycroft
