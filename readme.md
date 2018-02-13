@@ -162,6 +162,7 @@ Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentim
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
+* open type entity recognition system [code](https://github.com/openai/deeptype)
 
 ## Resources
 - BabelNet - Multilingual Enciclopedic Dictionnary [link](http://babelnet.org/download)
