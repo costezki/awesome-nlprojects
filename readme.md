@@ -44,6 +44,7 @@ Related Lists:
 - [Data Visualization Wikipedia](http://datavizproject.com/)
 
 ## Resources and Frameworks
+- Apache NLPCraft - An API to convert natural language into actions [link](https://nlpcraft.apache.org)
 - TRIPS
 . Semantic Lexicon [link](http://www.cs.rochester.edu/research/trips/lexicon/browse-ont-lex-ajax.html)
 . semantic parser [link](https://www.cs.rochester.edu/research/cisd/projects/trips/architecture/parser.html)
