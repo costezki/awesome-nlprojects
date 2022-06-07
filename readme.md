@@ -39,7 +39,7 @@ Related Lists:
 # Cheat Sheets
 - [ML Cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 - [Deep Learnign Cheat sheets](https://github.com/kailashahirwar/cheatsheets-ai)
-- [Data Schience](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+- [Data Science](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 - [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 - [Data Visualization Wikipedia](http://datavizproject.com/)
 
@@ -113,7 +113,7 @@ Related Lists:
 - GHMM
 . The General Hidden Markov Model library (GHMM) is a freely available C library implementing efficient data structures and algorithms for basic and extended HMMs with discrete and continous emissions. It comes with Python wrappers which provide a much nicer interface and added functionality.	[link](http://ghmm.org/)
 . pyHSMM	"This is a Python library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations. There are also some extensions:
-. autoregressive models
+. auto-regressive models
 . switching linear dynamical systems
 . factorial models
 . [link](https://github.com/mattjj/pyhsmm)
@@ -162,7 +162,7 @@ Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentim
 - SenticNet - Talking about SenticNet is talking about concept-level sentiment analysis, that is, performing tasks such as polarity detection and emotion recognition by leveraging on semantics and linguistics in stead of solely relying on word co-occurrence frequencies. [link](http://sentic.net/about/) [link](https://github.com/SenticNet)
 
 ## Deep Learning goodies
-* Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
+* Neural Story teller [code](https://github.com/ryankiros/neural-storyteller)
 * open type entity recognition system [code](https://github.com/openai/deeptype)
 
 ## Resources
