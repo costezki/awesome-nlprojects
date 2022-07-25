@@ -160,6 +160,7 @@ Sentiment analysis tool for Python [link](https://github.com/cjhutto/vaderSentim
 - Python cognitive modelling suite - [link](https://github.com/tcstewar/ccmsuite)
 - Rasa - Natural language understanding [link](https://github.com/RasaHQ/rasa_nlu)
 - SenticNet - Talking about SenticNet is talking about concept-level sentiment analysis, that is, performing tasks such as polarity detection and emotion recognition by leveraging on semantics and linguistics in stead of solely relying on word co-occurrence frequencies. [link](http://sentic.net/about/) [link](https://github.com/SenticNet)
+- Explore NLP - [link](https://kandi.openweaver.com/explore/nlp)
 
 ## Deep Learning goodies
 * Neural Storry teller [code](https://github.com/ryankiros/neural-storyteller)
@@ -207,6 +208,7 @@ OpenCog is an open-source software project aimed at directly confronting the Art
 Create your own chatbot in Go, Java, JavaScript, Perl or Python.
 - [SuperScript](http://superscriptjs.com/) - A dialog system and bot engine for conversational UI's.
 - [BotKit](https://github.com/howdyai/botkit) - Botkit is designed to ease the process of designing and running useful, creative bots that live inside messaging platforms. 
+
 
 ## Similar lists
 - [awesome nlp](https://github.com/keon/awesome-nlp)
