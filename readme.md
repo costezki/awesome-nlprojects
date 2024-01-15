@@ -198,7 +198,7 @@ OpenCog is an open-source software project aimed at directly confronting the Art
 - FoLiA Linguistic Annotation Tool [link](https://github.com/proycon/flat)
 - WebAnno - a linguistic annotation tool [link](https://webanno.github.io/webanno/)
 - Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. [link](https://github.com/facebookresearch/visdom)
-
+- Harmony - A tool for psychologists and social scientists to harmonise questionnaires using NLP. [link](https://github.com/harmonydata/harmony)
 
 ## Dialogue frameworks
 - [Chat script](https://github.com/bwilcox-1234/ChatScript) - Natural Language tool/dialog manager - [link1](https://sourceforge.net/projects/chatscript/), [link2](https://github.com/bwilcox-1234/ChatScript), 
